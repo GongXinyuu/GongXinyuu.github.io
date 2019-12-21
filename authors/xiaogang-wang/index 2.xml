@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaogang Wang | Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/xiaogang-wang/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/xiaogang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaogang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Xiaogang Wang</title>
+      <link>https://gongxinyuu.github.io/authors/xiaogang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Conditional Adversarial Generative Flow for Controllable Image Synthesis</title>
+      <link>https://gongxinyuu.github.io/publication/liu-2019-conditional/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/liu-2019-conditional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

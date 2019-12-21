@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiyu Chang | Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/shiyu-chang/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/shiyu-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiyu Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Shiyu Chang</title>
+      <link>https://gongxinyuu.github.io/authors/shiyu-chang/</link>
+    </image>
+    
+    <item>
+      <title>AutoGAN: Neural Architecture Search for Generative Adversarial Networks</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2019-iccv/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2019-iccv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
