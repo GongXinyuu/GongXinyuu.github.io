@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fumin Shen | Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/fumin-shen/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/fumin-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fumin Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Fumin Shen</title>
+      <link>https://gongxinyuu.github.io/authors/fumin-shen/</link>
+    </image>
+    
+    <item>
+      <title>Neural Stereoscopic Image Style Transfer</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2018-eccv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2018-eccv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

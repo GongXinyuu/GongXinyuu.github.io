@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianming Liu | Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/xianming-liu/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/xianming-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianming Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Xianming Liu</title>
+      <link>https://gongxinyuu.github.io/authors/xianming-liu/</link>
+    </image>
+    
+    <item>
+      <title>FasterSeg: Searching for Faster Real-time Semantic Segmentation</title>
+      <link>https://gongxinyuu.github.io/publication/chen-2020-iclr/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/chen-2020-iclr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

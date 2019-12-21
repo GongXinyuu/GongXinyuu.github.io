@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bing Zeng | Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/bing-zeng/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/bing-zeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bing Zeng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Bing Zeng</title>
+      <link>https://gongxinyuu.github.io/authors/bing-zeng/</link>
+    </image>
+    
+    <item>
+      <title>Multitarget AOA Estimation Using Wideband LFMCW Signal and Two Receiver Antennas</title>
+      <link>https://gongxinyuu.github.io/publication/zhang-2018-multitarget/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/zhang-2018-multitarget/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

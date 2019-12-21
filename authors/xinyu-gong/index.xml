@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinyu Gong</title>
+    <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
+      <atom:link href="https://gongxinyuu.github.io/authors/xinyu-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinyu Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <title>Xinyu Gong</title>
+      <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
+    </image>
+    
+    <item>
+      <title>FasterSeg: Searching for Faster Real-time Semantic Segmentation</title>
+      <link>https://gongxinyuu.github.io/publication/chen-2020-iclr/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/chen-2020-iclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoGAN: Neural Architecture Search for Generative Adversarial Networks</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2019-iccv/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2019-iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Adversarial Generative Flow for Controllable Image Synthesis</title>
+      <link>https://gongxinyuu.github.io/publication/liu-2019-conditional/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/liu-2019-conditional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EnlightenGAN: Deep Light Enhancement without Paired Supervision</title>
+      <link>https://gongxinyuu.github.io/publication/jiang-2019-enlightengan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/jiang-2019-enlightengan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Stereoscopic Image Style Transfer</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2018-eccv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2018-eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multitarget AOA Estimation Using Wideband LFMCW Signal and Two Receiver Antennas</title>
+      <link>https://gongxinyuu.github.io/publication/zhang-2018-multitarget/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/zhang-2018-multitarget/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
