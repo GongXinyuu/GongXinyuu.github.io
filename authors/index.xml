@@ -5,12 +5,76 @@
     <link>https://gongxinyuu.github.io/authors/</link>
       <atom:link href="https://gongxinyuu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gongxinyuu.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://gongxinyuu.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Shaojin Ding</title>
+      <link>https://gongxinyuu.github.io/authors/shaojin-ding/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/shaojin-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianlong Chen</title>
+      <link>https://gongxinyuu.github.io/authors/tianlong-chen/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/tianlong-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Zha</title>
+      <link>https://gongxinyuu.github.io/authors/weiwei-zha/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/weiwei-zha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinyu Gong</title>
+      <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/xinyu-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhangyang Wang</title>
+      <link>https://gongxinyuu.github.io/authors/zhangyang-wang/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/zhangyang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randy Ardywibowo</title>
+      <link>https://gongxinyuu.github.io/authors/randy-ardywibowo/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/randy-ardywibowo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shahin Boluki</title>
+      <link>https://gongxinyuu.github.io/authors/shahin-boluki/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/shahin-boluki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoning Qian</title>
+      <link>https://gongxinyuu.github.io/authors/xiaoning-qian/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/authors/xiaoning-qian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Li Yuan</title>
@@ -41,22 +105,6 @@
       <link>https://gongxinyuu.github.io/authors/xianming-liu/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://gongxinyuu.github.io/authors/xianming-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinyu Gong</title>
-      <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gongxinyuu.github.io/authors/xinyu-gong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhangyang Wang</title>
-      <link>https://gongxinyuu.github.io/authors/zhangyang-wang/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gongxinyuu.github.io/authors/zhangyang-wang/</guid>
       <description></description>
     </item>
     
@@ -241,7 +289,7 @@
       <link>https://gongxinyuu.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gongxinyuu.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Xinyu Gong (龚新宇) is a Ph.D. student of computer science at VITA, Texas A&amp;amp;M University, advised by Dr. Zhangyang Wang. His research interests include computer vision and machine learning.&lt;/p&gt;
+      <description>&lt;p&gt;Xinyu Gong (龚新宇) is a Ph.D. student Electrical and Computer Engineering at &lt;a href=&#34;https://vita-group.github.io&#34;&gt;VITA&lt;/a&gt;, The University of Texas at Austin, advised by Dr. &lt;a href=&#34;https://www.atlaswang.com&#34;&gt;Zhangyang Wang&lt;/a&gt;. His research interests include computer vision and machine learning.&lt;/p&gt;
 </description>
     </item>
     

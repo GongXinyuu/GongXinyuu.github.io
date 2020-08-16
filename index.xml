@@ -5,12 +5,28 @@
     <link>https://gongxinyuu.github.io/</link>
       <atom:link href="https://gongxinyuu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyu Gong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gongxinyuu.github.io/img/icon-192.png</url>
       <title>Xinyu Gong</title>
       <link>https://gongxinyuu.github.io/</link>
     </image>
+    
+    <item>
+      <title>AutoSpeech: Neural Architecture Search for Speaker Recognition</title>
+      <link>https://gongxinyuu.github.io/publication/ding-2020-autospeech/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/ding-2020-autospeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NADS: Neural Architecture Distribution Search for Uncertainty Awareness</title>
+      <link>https://gongxinyuu.github.io/publication/ardywibowo-2020-nads/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/ardywibowo-2020-nads/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FasterSeg: Searching for Faster Real-time Semantic Segmentation</title>
