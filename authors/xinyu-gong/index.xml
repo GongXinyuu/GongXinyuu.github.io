@@ -5,12 +5,28 @@
     <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
       <atom:link href="https://gongxinyuu.github.io/authors/xinyu-gong/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyu Gong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gongxinyuu.github.io/img/icon-192.png</url>
+      <url>https://gongxinyuu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xinyu Gong</title>
       <link>https://gongxinyuu.github.io/authors/xinyu-gong/</link>
     </image>
+    
+    <item>
+      <title>Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective</title>
+      <link>https://gongxinyuu.github.io/publication/chen-2021-neural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/chen-2021-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandwich Batch Normalization</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2021-sandwich/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2021-sandwich/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AutoSpeech: Neural Architecture Search for Speaker Recognition</title>
@@ -25,6 +41,14 @@
       <link>https://gongxinyuu.github.io/publication/ardywibowo-2020-nads/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://gongxinyuu.github.io/publication/ardywibowo-2020-nads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autopose: Searching multi-scale branch aggregation for pose estimation</title>
+      <link>https://gongxinyuu.github.io/publication/gong-2020-autopose/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://gongxinyuu.github.io/publication/gong-2020-autopose/</guid>
       <description></description>
     </item>
     
