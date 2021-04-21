@@ -5,12 +5,20 @@
     <link>https://gongxinyuu.github.io/</link>
       <atom:link href="https://gongxinyuu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyu Gong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Apr 2021 14:00:35 -0500</lastBuildDate>
     <image>
       <url>https://gongxinyuu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xinyu Gong</title>
       <link>https://gongxinyuu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Talk in Lyft</title>
+      <link>https://gongxinyuu.github.io/talk/lyft_april/</link>
+      <pubDate>Tue, 20 Apr 2021 14:00:35 -0500</pubDate>
+      <guid>https://gongxinyuu.github.io/talk/lyft_april/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective</title>
