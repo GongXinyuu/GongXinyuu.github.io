@@ -18,6 +18,8 @@ group :jekyll_plugins do
     gem 'libv8-node', '16.10.0.0'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'jekyll-twitter-plugin'
+
 end
 group :other_plugins do
     gem 'feedjira'
