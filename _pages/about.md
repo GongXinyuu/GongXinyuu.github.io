@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Xinyu Gong is a final-year PhD candidate at the Department of Electrical and Computer Engineering at the University of Texas at Austin, working under the guidance of [Dr. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). Xinyu's research interests encompass machine learning and computer vision, with a particular focus on few-shot learning and neural architecture search. He obtained his Bachelor of Engineering degree in 2018, at the University of Electronic Science and Technology of China (UESTC).
+Xinyu Gong is a final-year Ph.D. candidate at the Department of Electrical and Computer Engineering at the University of Texas at Austin, working under the guidance of [Dr. Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). Xinyu's research interests encompass machine learning and computer vision, with a particular focus on few-shot learning and neural architecture search. He obtained his Bachelor of Engineering degree in 2018, at the University of Electronic Science and Technology of China (UESTC).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
