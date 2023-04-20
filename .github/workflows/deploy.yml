@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - gh-pages
   pull_request:
     branches:
       - master
       - main
+      - gh-pages
   workflow_dispatch:
 
 permissions:
@@ -18,20 +20,19 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout 🛎️
-      uses: actions/checkout@v3
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.2.1'
-        bundler-cache: true
-    - name: Install and Build 🔧
-      run: |
-        npm install -g mermaid.cli
-        bundle exec jekyll build
-    - name: Deploy 🚀
-      if: github.event_name != 'pull_request'
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        folder: _site
-
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2.1"
+          bundler-cache: true
+      - name: Install and Build 🔧
+        run: |
+          npm install -g mermaid.cli
+          bundle exec jekyll build
+      - name: Deploy 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
