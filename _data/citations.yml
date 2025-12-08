@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-05'
+  last_updated: '2025-12-08'
 papers:
   qc6CJjYAAAAJ:-1WLWRmjvKAC:
-    citations: 2
+    citations: 3
     title: THE DULONG-PETIT LAW OF SPECIFIC HEATS
     year: Unknown Year
   qc6CJjYAAAAJ:-38epGy1wY0C:
@@ -18,7 +18,7 @@ papers:
     title: 'The Palestine Troubles: Einstein''s Protest, Zionism''s Basis and Achievement; the Mandatory''s Task'
     year: '1929'
   qc6CJjYAAAAJ:-LHtoeeytlUC:
-    citations: 2504
+    citations: 2506
     title: 'Albert Einstein: Philosopher Scientist'
     year: '1969'
   qc6CJjYAAAAJ:-R_Z4shfoosC:
@@ -26,11 +26,11 @@ papers:
     title: 'Albert Einstein] to Paul Ehrenfest: Letter, 22 Jul 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:-Viv1fr_sjoC:
-    citations: 142
+    citations: 141
     title: The special theory of relativity
     year: '1905'
   qc6CJjYAAAAJ:-_cDHGlXAtsC:
-    citations: 7717
+    citations: 7741
     title: Sitzungsberichte der Preussischen Akad. d
     year: '1917'
   qc6CJjYAAAAJ:-fj4grS0xi0C:
@@ -42,7 +42,7 @@ papers:
     title: Brownian motion
     year: '1936'
   qc6CJjYAAAAJ:-qpA3cGbmHsC:
-    citations: 536
+    citations: 537
     title: On the Relation between the Expansion and the Mean Density of the Universe
     year: '1932'
   qc6CJjYAAAAJ:-vzq6BoH5oUC:
@@ -82,7 +82,7 @@ papers:
     title: "Zeitungen gleichen Sparb\xFCchern: dass sie voll geschrieben sind, bedeutet noch nichts."
     year: Unknown Year
   qc6CJjYAAAAJ:0SnApaDgcCoC:
-    citations: 71
+    citations: 75
     title: podolsky B and Rosen N 1935 Phys
     year: Unknown Year
   qc6CJjYAAAAJ:0UEtxawf5sEC:
@@ -270,7 +270,7 @@ papers:
     title: Nachtrag zu meiner Arbeit:Thermodynamische Begruendung des photochemischen Aequivalentgesetzes'(from Annalen der Physik 1912)
     year: '1993'
   qc6CJjYAAAAJ:4Bh_hC5jS3YC:
-    citations: 6953
+    citations: 6963
     title: Graviton Mass and Inertia Mass
     year: '1911'
   qc6CJjYAAAAJ:4DMP91E08xMC:
@@ -290,7 +290,7 @@ papers:
     title: 'Albert Einstein] to Mileva Einstein-Maric: Letter, 17 Apr 1908'
     year: Unknown Year
   qc6CJjYAAAAJ:4JMBOYKVnBMC:
-    citations: 2886
+    citations: 2888
     title: Quantentheorie des einatomigen idealen Gases
     year: '1924'
   qc6CJjYAAAAJ:4QKQTXcH0q8C:
@@ -386,11 +386,11 @@ papers:
     title: 'Albert Einstein] to Emil Beck: Letter, 30 Apr 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:5bGIVMdsOr0C:
-    citations: 169
+    citations: 168
     title: My theory
     year: '1919'
   qc6CJjYAAAAJ:5pGZGXnFQ_sC:
-    citations: 9763
+    citations: 9786
     title: Sitzungsber. K
     year: '1925'
   qc6CJjYAAAAJ:5qfkUJPXOUwC:
@@ -546,7 +546,7 @@ papers:
     title: "Bemerkung zu der Arbeit von D. Mirimanoff \u201E\xDCber die Grundgleichungen\u2026\u201D \uFE01"
     year: '1909'
   qc6CJjYAAAAJ:8k81kl-MbHgC:
-    citations: 373
+    citations: 374
     title: Essays in science
     year: '2011'
   qc6CJjYAAAAJ:8moDcb_GFzgC:
@@ -566,7 +566,7 @@ papers:
     title: "Die Einstein-Dokumente im Archiv der Humboldt-Universit\xE4t zu Berlin"
     year: '1973'
   qc6CJjYAAAAJ:94rQ0kDLHKYC:
-    citations: 4512
+    citations: 4517
     title: Evolution of Physics
     year: '1954'
   qc6CJjYAAAAJ:9CGX2owmTHMC:
@@ -574,7 +574,7 @@ papers:
     title: DIE NATLIRWISSENSCHAFTEN
     year: Unknown Year
   qc6CJjYAAAAJ:9LpHyFPp1DQC:
-    citations: 517
+    citations: 518
     title: "Riemann\u2010Geometrie mit Aufrechterhaltung des Begriffes des Fernparallelismus"
     year: '1928'
   qc6CJjYAAAAJ:9N3KX2BFTccC:
@@ -582,7 +582,7 @@ papers:
     title: Elementare Uberlegungen zur Interpretation der Grundlagen der Quanten-Mechanik
     year: '1953'
   qc6CJjYAAAAJ:9PbDelcLwNgC:
-    citations: 35
+    citations: 36
     title: On the theory of light production and light absorption
     year: '1906'
   qc6CJjYAAAAJ:9QTmwX2E1jEC:
@@ -670,7 +670,7 @@ papers:
     title: 'Albert Einstein] to Wander de Haas: Letter, 7 Aug 1915'
     year: Unknown Year
   qc6CJjYAAAAJ:AbQWx2m_oG8C:
-    citations: 21
+    citations: 22
     title: "\xDCber ein den Elementarproze\xC3\u0178 der Lichtemission betreffendes Experiment"
     year: '1921'
   qc6CJjYAAAAJ:AdUz3-SiDfgC:
@@ -766,7 +766,7 @@ papers:
     title: 'Albert Einstein] to Paul Seippel: Letter, 19 Aug 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:CLQ-NLsb8zAC:
-    citations: 3087
+    citations: 3093
     title: Ideas and Opinions
     year: '1954'
   qc6CJjYAAAAJ:COU-sansr_wC:
@@ -814,7 +814,7 @@ papers:
     title: On the moral obligation of the scientist
     year: '1945'
   qc6CJjYAAAAJ:Cv-mv52rCCkC:
-    citations: 5203
+    citations: 5205
     title: On the motion of particles suspended in a liquid at rest, assumed by the molecular-kinetic theory of heat
     year: '1905'
   qc6CJjYAAAAJ:Cx2ibDnldiAC:
@@ -858,7 +858,7 @@ papers:
     title: Jarbuch der Radioaktivitat und Elektronik, 4, 411 (1907), reprinted in The Collected Papers of A. Einstein, vol. 2, 252
     year: '1989'
   qc6CJjYAAAAJ:DQNrXyjhriIC:
-    citations: 2640
+    citations: 2656
     title: Die feldgleichungen der gravitation
     year: '1915'
   qc6CJjYAAAAJ:D_sINldO8mEC:
@@ -898,7 +898,7 @@ papers:
     title: Kreative Methoden 239 Kindern in Deutsehland lebensweltliche Erfahrungen von politischen Er
     year: Unknown Year
   qc6CJjYAAAAJ:E2bRg1zSkIsC:
-    citations: 277
+    citations: 278
     title: A teoria da relatividade especial e geral
     year: '2003'
   qc6CJjYAAAAJ:E2dP09oujfMC:
@@ -938,7 +938,7 @@ papers:
     title: 'Albert Einstein] to Romain Rolland: Letter, 22 Mar 1915'
     year: Unknown Year
   qc6CJjYAAAAJ:EYYDruWGBe4C:
-    citations: 151
+    citations: 152
     title: "The Collected Papers of Albert Einstein, Vol. 2, The Swiss Years: Writings, 1900\u20131909 (English Translation Supplement)"
     year: '1989'
   qc6CJjYAAAAJ:Ecsxi449JjsC:
@@ -1010,11 +1010,11 @@ papers:
     title: Impact of Science on the Development of Pacifism, before 9 Dec 1921
     year: Unknown Year
   qc6CJjYAAAAJ:FTNwVkz-CAMC:
-    citations: 74
+    citations: 77
     title: Outline of a generalized theory of relativity and of a theory of gravitation
     year: '1913'
   qc6CJjYAAAAJ:FV77Gu53xKkC:
-    citations: 105
+    citations: 108
     title: the Theory of Gravitation
     year: '1974'
   qc6CJjYAAAAJ:FcH-RsB9iB0C:
@@ -1118,7 +1118,7 @@ papers:
     title: 'Zitate Aus Mein Weltbild: Sieben Radierungen Von Terry Haass'
     year: '1975'
   qc6CJjYAAAAJ:Gpwnp1kGG20C:
-    citations: 237
+    citations: 236
     title: Ernst Mach
     year: '1916'
   qc6CJjYAAAAJ:Grx829lh2T4C:
@@ -1182,11 +1182,11 @@ papers:
     title: "Die Relativit\xE4tstheorie"
     year: '1925'
   qc6CJjYAAAAJ:Hl4CZ0n6gBQC:
-    citations: 20483
+    citations: 20497
     title: Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heurischen Gesichtpunkt
     year: '1905'
   qc6CJjYAAAAJ:HtEfBTGE9r8C:
-    citations: 181
+    citations: 182
     title: "La f\xEDsica: aventura del pensamiento"
     year: '1939'
   qc6CJjYAAAAJ:Hx6RvaqUy9IC:
@@ -1210,7 +1210,7 @@ papers:
     title: "\xC4ther und Relativit\xE4tstheorie: Rede gehalten am 5. Mai 1920 an der Reichs-Universit\xE4t zu Leiden"
     year: '1920'
   qc6CJjYAAAAJ:IEpB_1CIIT4C:
-    citations: 3871
+    citations: 3876
     title: 'THE EVOLUTION OF PHYSICS: THE GROWTH OF IDEAS FROM THE EARLY CON CEPTS TO RELATIVITY AND QUANTA.'
     year: '1938'
   qc6CJjYAAAAJ:IHkkN1K1AlAC:
@@ -1226,7 +1226,7 @@ papers:
     title: Sehallausbreitung in teilweise disseziierten Gasen.
     year: '1920'
   qc6CJjYAAAAJ:IWHjjKOFINEC:
-    citations: 692
+    citations: 694
     title: Cosmological considerations on the general theory of relativity
     year: '1986'
   qc6CJjYAAAAJ:IZKZNMMMWs0C:
@@ -1246,7 +1246,7 @@ papers:
     title: 'The collected papers of Albert Einstein. Vol 4, The Swiss years: writings, 1912-1914 [English translation]'
     year: Unknown Year
   qc6CJjYAAAAJ:IjCSPb-OGe4C:
-    citations: 1360
+    citations: 1361
     title: The gravitational equations and the problem of motion
     year: '1938'
   qc6CJjYAAAAJ:IkxDsZK-5NQC:
@@ -1258,7 +1258,7 @@ papers:
     title: 'Zu Max Plancks sechzegstem Geburtstag: Ansprachen, gehalten am 26. April 1918 in der Deutschen Physikalischen Gesellschaft'
     year: '1918'
   qc6CJjYAAAAJ:IqrShC7OVU0C:
-    citations: 6349
+    citations: 6351
     title: Investigations on the theory of the Brownian movement, edited with notes by R
     year: '1926'
   qc6CJjYAAAAJ:IvSMUa3B7yYC:
@@ -1286,7 +1286,7 @@ papers:
     title: Relativistic theory of the non-symmetric field
     year: '1955'
   qc6CJjYAAAAJ:JZsVLox4iN8C:
-    citations: 2402
+    citations: 2404
     title: 'Autobiographisches in: Albert Einstein: Philosopher-Scientist'
     year: '1949'
   qc6CJjYAAAAJ:J_g5lzvAfSwC:
@@ -1314,7 +1314,7 @@ papers:
     title: Fundamental ideas and problems of the theory of relativity
     year: '2009'
   qc6CJjYAAAAJ:K4-iKlO5MD4C:
-    citations: 681
+    citations: 684
     title: A Heuristic Viewpoint Concerning the Production and Transformation of Light
     year: '1929'
   qc6CJjYAAAAJ:K6kyChav4UkC:
@@ -1342,7 +1342,7 @@ papers:
     title: Why socialism?
     year: '1951'
   qc6CJjYAAAAJ:KOc9rAu6-V4C:
-    citations: 368
+    citations: 369
     title: letter to Max Born
     year: '1926'
   qc6CJjYAAAAJ:KQ7zX_ltr48C:
@@ -1370,7 +1370,7 @@ papers:
     title: "Die spezielle Relativit\xE4sthorie"
     year: '1912'
   qc6CJjYAAAAJ:KlAtU1dfN6UC:
-    citations: 434
+    citations: 439
     title: On the Influence of Gravitation on the Propagation of Light
     year: '1911'
   qc6CJjYAAAAJ:KqnX2w3egDsC:
@@ -1390,7 +1390,7 @@ papers:
     title: 'Albert Einstein] to Mileva Einstein-Maric: Letter, after 17 Mar 1918'
     year: Unknown Year
   qc6CJjYAAAAJ:L7JqRCIhofwC:
-    citations: 6535
+    citations: 6542
     title: Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin
     year: '1915'
   qc6CJjYAAAAJ:L7vk9XBBNxgC:
@@ -1454,11 +1454,11 @@ papers:
     title: 'Albert Einstein] to Hedwig Born: Letter, 8 Feb 1918'
     year: Unknown Year
   qc6CJjYAAAAJ:LkGwnXOMwfcC:
-    citations: 2827
+    citations: 2840
     title: The foundation of the general theory of relativity
     year: '1916'
   qc6CJjYAAAAJ:LkrQC8aPkXYC:
-    citations: 5247
+    citations: 5231
     title: 'Relativity: The Special and the General Theory: a Popular Exposition by Albert Einstein; Transl. by Robert W. Lawson'
     year: '1961'
   qc6CJjYAAAAJ:Lmuc1furtc4C:
@@ -1558,7 +1558,7 @@ papers:
     title: Physikalische Grundlagen einer Gravitationstheorie
     year: '1914'
   qc6CJjYAAAAJ:NAGhd4NKCV8C:
-    citations: 145
+    citations: 140
     title: "K\xF6niglich Preu\xDFische Akademie der Wissenschaften Berlin"
     year: '1916'
   qc6CJjYAAAAJ:NGoJ35N4lvkC:
@@ -1570,7 +1570,7 @@ papers:
     title: The advent of the quantum theory
     year: '1951'
   qc6CJjYAAAAJ:NM66qo_NnlUC:
-    citations: 908
+    citations: 909
     title: 'The Collected Papers of Albert Einstein: English Translation'
     year: '1989'
   qc6CJjYAAAAJ:NMxIlDl6LWMC:
@@ -1578,7 +1578,7 @@ papers:
     title: 'The Collected Papers of Albert Einstein, Volume 6: The Berlin Years: Writings, 1914-1917'
     year: '1997'
   qc6CJjYAAAAJ:NNXJ2mIwlScC:
-    citations: 6
+    citations: 5
     title: Albert Einstein, Michele Besso, correspondence, 1903-1955
     year: '1972'
   qc6CJjYAAAAJ:NRnkAyzcrGMC:
@@ -1662,7 +1662,7 @@ papers:
     title: 'Friedrich Wilhelm Foerster und Albert Einstein: Briefwechsel von 1935 bis 1954'
     year: '2001'
   qc6CJjYAAAAJ:OPs5gEIPXMUC:
-    citations: 7636
+    citations: 7658
     title: On gravitational waves Sitzungsber. preuss
     year: '1918'
   qc6CJjYAAAAJ:OTTXONDVkokC:
@@ -1670,7 +1670,7 @@ papers:
     title: On the relativity problem
     year: '2007'
   qc6CJjYAAAAJ:OVe_t5h5bhEC:
-    citations: 267
+    citations: 266
     title: "Mi visi\xF3n del mundo"
     year: '1985'
   qc6CJjYAAAAJ:Oi-j_DTgP3cC:
@@ -1758,7 +1758,7 @@ papers:
     title: "Cien a\xF1os de relatividad: Los art\xEDculos de Albert Einstein de 1905 y 1906"
     year: '2004'
   qc6CJjYAAAAJ:QIV2ME_5wuYC:
-    citations: 701
+    citations: 702
     title: Does the inertia of a body depend upon its energy-content?
     year: '1905'
   qc6CJjYAAAAJ:QKtdBID3u5MC:
@@ -1854,7 +1854,7 @@ papers:
     title: Bemerkungen iiber den Wandel der Problemstcllungen in der theoretischen Physik
     year: Unknown Year
   qc6CJjYAAAAJ:RfUwGJFMQ-0C:
-    citations: 4078
+    citations: 4082
     title: Zur quantentheorie der strahlung
     year: '1917'
   qc6CJjYAAAAJ:RgMnzfD6kpIC:
@@ -1878,7 +1878,7 @@ papers:
     title: "Kinetische Theorie des W\xE4rmegleichgewichtes und des zweiten Hauptsatzes der Thermodynamik"
     year: '1902'
   qc6CJjYAAAAJ:S9V7H-Nz35UC:
-    citations: 7372
+    citations: 7374
     title: On a Heuristic Point of View Toward the Emission and Transformation of Light
     year: '1905'
   qc6CJjYAAAAJ:SFOYbPikdlgC:
@@ -1938,7 +1938,7 @@ papers:
     title: 'Albert Einstein] to Wladyslaw Natanson: Letter, 24 Aug 1915'
     year: Unknown Year
   qc6CJjYAAAAJ:SzsLJvG5eXAC:
-    citations: 2019
+    citations: 2024
     title: Autobiographical Notes, ed
     year: '1979'
   qc6CJjYAAAAJ:T64LSalLz9oC:
@@ -1962,7 +1962,7 @@ papers:
     title: The new field theory
     year: '1929'
   qc6CJjYAAAAJ:TIZ-Mc8IlK0C:
-    citations: 1088
+    citations: 1089
     title: On the method of theoretical physics
     year: '1934'
   qc6CJjYAAAAJ:TKTY8N1AUUAC:
@@ -1990,7 +1990,7 @@ papers:
     title: "Hamilton\u2019s principle and the general theory of relativity"
     year: '1916'
   qc6CJjYAAAAJ:TiIbgCYny7sC:
-    citations: 8842
+    citations: 8862
     title: "Zur Elektrodynamik bewegter K\xF6rper"
     year: Unknown Year
   qc6CJjYAAAAJ:TmnWbB_axlEC:
@@ -2050,7 +2050,7 @@ papers:
     title: "Sobre la electrodin\xE1mica de los cuerpos en movimiento"
     year: '2005'
   qc6CJjYAAAAJ:UebtZRa9Y70C:
-    citations: 969
+    citations: 966
     title: "\xDCber die spezielle und die allgemeine Relativit\xE4tstheorie"
     year: '2008'
   qc6CJjYAAAAJ:UlRcoTO8nVoC:
@@ -2162,7 +2162,7 @@ papers:
     title: "L'\xE9tat actuel du probl\xE8me des chaleurs sp\xE9cifiques"
     year: '1912'
   qc6CJjYAAAAJ:W7OEmFMy1HYC:
-    citations: 1586
+    citations: 1591
     title: Lens-like action of a star by the deviation of light in the gravitational field
     year: '1936'
   qc6CJjYAAAAJ:WC4w5-ZrDNIC:
@@ -2246,7 +2246,7 @@ papers:
     title: Science and synthesis
     year: '1971'
   qc6CJjYAAAAJ:X5YyAB84Iw4C:
-    citations: 292
+    citations: 295
     title: Philosopher-Scientist
     year: '1970'
   qc6CJjYAAAAJ:XK2cf6JOk9AC:
@@ -2274,7 +2274,7 @@ papers:
     title: 'Albert Einstein] to Paul Gruner: Letter, 11 Feb 1908'
     year: Unknown Year
   qc6CJjYAAAAJ:XZvG1uL-wj0C:
-    citations: 1134
+    citations: 1135
     title: 'On the method of theoretical physics: The Herbert Spencer lecture, delivered at Oxford 10 June 1933'
     year: '1933'
   qc6CJjYAAAAJ:Xc-mKOjpdrwC:
@@ -2286,7 +2286,7 @@ papers:
     title: 'The Collected Papers of Albert Einstein, Volume 9: The Berlin Years: Correspondence, January 1919-April 1920'
     year: '2004'
   qc6CJjYAAAAJ:XdwVV_xN3QMC:
-    citations: 1411
+    citations: 1415
     title: Draft of a Generalized Theory of Relativity and a Theory of Gravitation
     year: '1913'
   qc6CJjYAAAAJ:XeErXHja3Z8C:
@@ -2322,7 +2322,7 @@ papers:
     title: "Research@ FrankfurtSchool in Zeiten der Finanzmarktkrise \u201EA Collection of Working Papers \u201C"
     year: Unknown Year
   qc6CJjYAAAAJ:Y0agIcFmOsQC:
-    citations: 1293
+    citations: 1294
     title: A correction on my work-A new determination of molecular dimensions
     year: '1969'
   qc6CJjYAAAAJ:Y1W0x10ZrwMC:
@@ -2390,7 +2390,7 @@ papers:
     title: 'Albert Einstein] to Michele and Anna Besso-Winteler: Letter, 1 Aug 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:YsMSGLbcyi4C:
-    citations: 2255
+    citations: 2262
     title: The particle problem in the general theory of relativity
     year: '1935'
   qc6CJjYAAAAJ:YvgfBAebZEkC:
@@ -2430,7 +2430,7 @@ papers:
     title: 'Briefwechsel: Sechzig Briefe aus dem goldenen Zeitalter der modernen Physik'
     year: '1968'
   qc6CJjYAAAAJ:ZbQVaL1IMbQC:
-    citations: 625
+    citations: 623
     title: Quanzeml~ orie der stralllung
     year: '1916'
   qc6CJjYAAAAJ:ZbiiB1Sm8G8C:
@@ -2482,7 +2482,7 @@ papers:
     title: Gelegentliches von Albert Einstein
     year: '1929'
   qc6CJjYAAAAJ:_9Xh93LWpsYC:
-    citations: 40
+    citations: 41
     title: "\xDCber Friedrich Kottlers Abhandlung \u201C\xDCber Einsteins \xC4quivalenzhypothese und die Gravitation\u201D"
     year: '1916'
   qc6CJjYAAAAJ:_IsBomjs8bsC:
@@ -2526,7 +2526,7 @@ papers:
     title: "Eine Beziehung zwischen dem elastischen Verhalten und der spezifischen W\xE4rme bei festen K\xF6rpern mit einatomigem Molek\xFCl"
     year: '1911'
   qc6CJjYAAAAJ:a9-T7VOCCH8C:
-    citations: 3789
+    citations: 3768
     title: The Science and the Life of Albert Einstein
     year: '1982'
   qc6CJjYAAAAJ:aDdGf5um_jkC:
@@ -2534,7 +2534,7 @@ papers:
     title: 'Albert Einstein] to Gustav Mie: Letter, 2 Jun 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:aEPHIGigqugC:
-    citations: 4231
+    citations: 4240
     title: "Physics and Reality, in \u201CIdeas and Opinions\u201D"
     year: '1954'
   qc6CJjYAAAAJ:aEyKTaVlRPYC:
@@ -2570,7 +2570,7 @@ papers:
     title: Zur theorie der lichterzeugung und lichtabsorption
     year: '1906'
   qc6CJjYAAAAJ:adHtZc2wMuEC:
-    citations: 129
+    citations: 130
     title: "Neue M\xF6glichkeit f\xFCr eine einheitliche Feldtheorie von Gravitation und Elektrizit\xE4t"
     year: '1928'
   qc6CJjYAAAAJ:adgdM4TzidAC:
@@ -2582,7 +2582,7 @@ papers:
     title: "Albert Einstein] to Michael Pol\xE1nyi: Letter, 6 Jul 1915"
     year: Unknown Year
   qc6CJjYAAAAJ:afceBpUbn5YC:
-    citations: 58
+    citations: 59
     title: Atomic education urged by Einstein
     year: '1946'
   qc6CJjYAAAAJ:afcu1OVO0wMC:
@@ -2626,7 +2626,7 @@ papers:
     title: 'Albert Einstein] to Paul Hertz: Letter, 22 Aug 1915'
     year: Unknown Year
   qc6CJjYAAAAJ:bUu3lypoyhcC:
-    citations: 665
+    citations: 666
     title: On the quantum theory of radiation
     year: '1972'
   qc6CJjYAAAAJ:bcT4vkklUMwC:
@@ -2650,7 +2650,7 @@ papers:
     title: So You Want to
     year: '2003'
   qc6CJjYAAAAJ:blknAaTinKkC:
-    citations: 160
+    citations: 161
     title: "Zur Theorie der Radiometerkr\xE4fte"
     year: '1924'
   qc6CJjYAAAAJ:bnK-pcrLprsC:
@@ -2702,7 +2702,7 @@ papers:
     title: 'In Memory of Emmy Noether...: Abstract of Address Delivered by Professor Hermann Weyl... and Copy of Letter of Professor Albert Einstein'
     year: '1935'
   qc6CJjYAAAAJ:cNe27ouKFcQC:
-    citations: 7028
+    citations: 7045
     title: "Die grundlage der allgemeinen relativit\xE4tstheorie"
     year: '2006'
   qc6CJjYAAAAJ:cOfwuRB03ygC:
@@ -2758,7 +2758,7 @@ papers:
     title: "Signification de la relativit\xE9: appendice \xE0 la cinqui\xE8me \xE9dition de\" The meaning of relativity\"(d\xE9cembre 1954). Compl\xE9ments"
     year: '1960'
   qc6CJjYAAAAJ:d4tt_xEv1X8C:
-    citations: 220
+    citations: 221
     title: Lichtgeschwindigkeit und statik des Gravitationsfeldes
     year: '1912'
   qc6CJjYAAAAJ:d6JCS5z0ckYC:
@@ -2794,7 +2794,7 @@ papers:
     title: "L'Heure H at-elle sonn\xE9 pour le monde?: effets accumulatifs des explosions nucl\xE9aires. Pr\xE9c\xE9d\xE9 d'un Message de Albert Einstein"
     year: '1955'
   qc6CJjYAAAAJ:dZbaGXT4iR0C:
-    citations: 38
+    citations: 37
     title: Education
     year: '1950'
   qc6CJjYAAAAJ:dgXhHFWAKKUC:
@@ -2826,7 +2826,7 @@ papers:
     title: 'Albert Einstein] to Hans Albert Einstein: Letter, 4 Nov 1915'
     year: Unknown Year
   qc6CJjYAAAAJ:e84hm74t-eoC:
-    citations: 5671
+    citations: 5679
     title: "Eine neue bestimmung der molek\xFCldimensionen"
     year: '1906'
   qc6CJjYAAAAJ:eAUscmXIlQ8C:
@@ -2966,7 +2966,7 @@ papers:
     title: On the limit of validity of the law of thermodynamic equilibrium and on the possibility of a new determination of the elementary quanta
     year: '1907'
   qc6CJjYAAAAJ:g5m5HwL7SMYC:
-    citations: 141
+    citations: 140
     title: TIME, SPACE, AND GRAVITATION.
     year: '1920'
   qc6CJjYAAAAJ:gKLIUvgTho8C:
@@ -2982,7 +2982,7 @@ papers:
     title: Zu Dr. Berliners siebzigstem Geburtstag
     year: '1932'
   qc6CJjYAAAAJ:gV6rEsy15s0C:
-    citations: 3333
+    citations: 3349
     title: Bemerkungen zu der Arbeit
     year: '1914'
   qc6CJjYAAAAJ:gYAb_yFic6IC:
@@ -3014,7 +3014,7 @@ papers:
     title: Reply to critics
     year: '1949'
   qc6CJjYAAAAJ:hEp1lTclR2YC:
-    citations: 307
+    citations: 308
     title: On the generalized theory of gravitation
     year: '1950'
   qc6CJjYAAAAJ:hKjooKYXoHIC:
@@ -3022,7 +3022,7 @@ papers:
     title: "\xDCber die formale Beziehung des Riemannschen Kr\xFCmmungstensors zu den Feldgleichungen der Gravitation"
     year: '1927'
   qc6CJjYAAAAJ:hMod-77fHWUC:
-    citations: 5057
+    citations: 5041
     title: "La relativit\xE9"
     year: '1964'
   qc6CJjYAAAAJ:hMwNgRnlwaMC:
@@ -3102,7 +3102,7 @@ papers:
     title: Geometria no euclidea y fisica
     year: '1926'
   qc6CJjYAAAAJ:i_7YvbSbtFEC:
-    citations: 8536
+    citations: 8553
     title: "Berichtigung zu meiner Arbeit:\u201EEine neue Bestimmung der Molek\xFCldimensionen\u201D \uFE01"
     year: '2006'
   qc6CJjYAAAAJ:ifIdVpG6JtcC:
@@ -3122,7 +3122,7 @@ papers:
     title: "La th\xE9orie de la relativit\xE9 d'Einstein et la dialectique."
     year: Unknown Year
   qc6CJjYAAAAJ:isC4tDSrTZIC:
-    citations: 3701
+    citations: 3721
     title: "\xDCber Gravitationswellen"
     year: '1918'
   qc6CJjYAAAAJ:it4f3qIuXWYC:
@@ -3178,7 +3178,7 @@ papers:
     title: A memorial to PAM Dirac
     year: '1990'
   qc6CJjYAAAAJ:k4O5U3vRA4YC:
-    citations: 5440
+    citations: 5424
     title: The special and general theory
     year: '1920'
   qc6CJjYAAAAJ:k6nH7jlkaTkC:
@@ -3190,7 +3190,7 @@ papers:
     title: Hedwig und Max Born
     year: '1916'
   qc6CJjYAAAAJ:kFzFP8IdBVAC:
-    citations: 373
+    citations: 374
     title: Einstein's essays in science
     year: '2009'
   qc6CJjYAAAAJ:kGbpvR7Ecy8C:
@@ -3222,11 +3222,11 @@ papers:
     title: "Albert Einstein] to Walter D\xE4llenbach: Letter, after 15 Feb 1917"
     year: Unknown Year
   qc6CJjYAAAAJ:kqeZabM7ilsC:
-    citations: 3981
+    citations: 3980
     title: Preuss, Sitzungsber
     year: '1915'
   qc6CJjYAAAAJ:l0_JBNIuc60C:
-    citations: 53
+    citations: 52
     title: Quoted in
     year: '1990'
   qc6CJjYAAAAJ:l1jknz_x7mgC:
@@ -3238,7 +3238,7 @@ papers:
     title: Geometrie und erfahrung
     year: '1921'
   qc6CJjYAAAAJ:l7t_Zn2s7bgC:
-    citations: 614
+    citations: 616
     title: Ether and the Theory of Relativity
     year: '2007'
   qc6CJjYAAAAJ:lAj_JhtUatoC:
@@ -3254,7 +3254,7 @@ papers:
     title: The collecteds of albert einstein v 9 the berlin years correspondence january 1919-april 1920 english translation (paperback)
     year: '2004'
   qc6CJjYAAAAJ:lEqHes_HPG0C:
-    citations: 755
+    citations: 756
     title: 'The principle of relativity: a collection of original memoirs on the special and general theory of relativity'
     year: '1923'
   qc6CJjYAAAAJ:lIaPce-xyHYC:
@@ -3266,7 +3266,7 @@ papers:
     title: "Grundgedanken und Probleme der Relativit\xE4tstheorie"
     year: '1923'
   qc6CJjYAAAAJ:lLPirIASiZEC:
-    citations: 813
+    citations: 814
     title: "The Collected Papers of Albert Einstein, Volume 15 (Translation Supplement): The Berlin Years: Writings & Correspondence, June 1925\u2013May 1927"
     year: '2018'
   qc6CJjYAAAAJ:lOG7zRu2uA8C:
@@ -3306,7 +3306,7 @@ papers:
     title: A new form of the general relativistic field equations
     year: '1955'
   qc6CJjYAAAAJ:mN77zE6YZBUC:
-    citations: 681
+    citations: 678
     title: Ueber spezielle und allgemeine Relativitaetstheorie, 127
     year: '1969'
   qc6CJjYAAAAJ:mNm_27jwclsC:
@@ -3342,7 +3342,7 @@ papers:
     title: Albert Einstein] to Michele Besso:[A second] letter, 21 Jul 1916
     year: Unknown Year
   qc6CJjYAAAAJ:mnAcAzq93VMC:
-    citations: 116
+    citations: 113
     title: Riemannian Geometry with Maintaining the Notion of distant parallelism
     year: '1928'
   qc6CJjYAAAAJ:mpaOjDK6XBIC:
@@ -3454,7 +3454,7 @@ papers:
     title: 'Le pouvoir nu: propos sur la guerre et la paix, 1914-1955'
     year: '1991'
   qc6CJjYAAAAJ:oYLFIHfuHKwC:
-    citations: 236
+    citations: 238
     title: "Zum kosmologischen Problem der allgemeinen Relativit\xE4tstheorie"
     year: '1931'
   qc6CJjYAAAAJ:oea97a5D_h0C:
@@ -3470,7 +3470,7 @@ papers:
     title: "Einheitliche Theorie von Gravitation und Elektrizit\xE4t. Zweite Abhandlung"
     year: '2006'
   qc6CJjYAAAAJ:oqD4_j7ulsYC:
-    citations: 19675
+    citations: 19693
     title: On the movement of small particles suspended in stationary liquids required by the molecular-kinetic theory of heat
     year: '1905'
   qc6CJjYAAAAJ:osi8XriVlOYC:
@@ -3574,11 +3574,11 @@ papers:
     title: "Quatre conf\xE9rences sur la th\xE9orie de la relativit\xE9 faites \xE0 l'Universit\xE9 de Princeton"
     year: '2005'
   qc6CJjYAAAAJ:qCpRzq7zkD8C:
-    citations: 2097
+    citations: 2103
     title: "Zur allgemeinen Relativit\xE4tstheorie"
     year: '1915'
   qc6CJjYAAAAJ:qPeb-qHga9sC:
-    citations: 308
+    citations: 309
     title: "Auf die Riemann-Metrik und den Fern-Parallelismus gegr\xFCndete einheitliche Feldtheorie"
     year: '1930'
   qc6CJjYAAAAJ:qbqt7gslDFUC:
@@ -3590,11 +3590,11 @@ papers:
     title: "En busca del eslab\xF3n perdido entre educaci\xF3n y desarrollo: desaf\xEDos y retos para la universidad en Am\xE9rica Latina y el Caribe"
     year: Unknown Year
   qc6CJjYAAAAJ:qjMakFHDy7sC:
-    citations: 3100
+    citations: 3097
     title: On the electrodynamics of moving bodies
     year: '1905'
   qc6CJjYAAAAJ:qsWQJNntlusC:
-    citations: 3136
+    citations: 3142
     title: Ideas and opinions
     year: '1995'
   qc6CJjYAAAAJ:quBVm8e4N6QC:
@@ -3606,7 +3606,7 @@ papers:
     title: Geometrie und erfahrung
     year: '1921'
   qc6CJjYAAAAJ:qyhmnyLat1gC:
-    citations: 27151
+    citations: 27167
     title: Can quantum-mechanical description of physical reality be considered complete?
     year: '1935'
   qc6CJjYAAAAJ:qzuIxkxWBNsC:
@@ -3650,7 +3650,7 @@ papers:
     title: "Gelegentliches: Zum f\xFCnfzigsten Geburtstag 14. M\xE4rz 1929 dargebracht von der Soncino-Gesellschaft der Freunde des J\xFCdischen Buches zu Berlin"
     year: '1929'
   qc6CJjYAAAAJ:rPbfW60zdgkC:
-    citations: 1158
+    citations: 1160
     title: Physics and reality
     year: '1936'
   qc6CJjYAAAAJ:rQcm2j6_ZE8C:
@@ -3662,7 +3662,7 @@ papers:
     title: A new analysis of molecule dimensions
     year: '1968'
   qc6CJjYAAAAJ:rWqKpwLRvsIC:
-    citations: 2640
+    citations: 2656
     title: Die feldgleichungen der gravitation
     year: Unknown Year
   qc6CJjYAAAAJ:rbgNTKsR3fAC:
@@ -3686,7 +3686,7 @@ papers:
     title: 'The anthropomorphized product shelf: Symmetric multimodal human-environment interaction'
     year: '2006'
   qc6CJjYAAAAJ:rr29yNp9FasC:
-    citations: 21
+    citations: 22
     title: "\xDCber ein den Elementarproze\xDF der Lichtemission betreffendes Experiment"
     year: '2006'
   qc6CJjYAAAAJ:rsrKZ8bNWIsC:
@@ -3722,7 +3722,7 @@ papers:
     title: "La th\xE9orie corpusculaire des rayons X et la structure des cristaux."
     year: Unknown Year
   qc6CJjYAAAAJ:sAujV351FBYC:
-    citations: 4764
+    citations: 4772
     title: The meaning of relativity
     year: '1950'
   qc6CJjYAAAAJ:sIDMtVbdO0QC:
@@ -3754,7 +3754,7 @@ papers:
     title: The laws of science and the laws of ethics
     year: '1950'
   qc6CJjYAAAAJ:sgsej9ZJWHMC:
-    citations: 3875
+    citations: 3892
     title: "N\xE4herungsweise Integration der Feldgleichungen der Gravitation"
     year: '1916'
   qc6CJjYAAAAJ:siTy-4AL0AwC:
@@ -3838,7 +3838,7 @@ papers:
     title: "equations of motion\uFB01 one therefore could not doubt that the laws of nature are"
     year: '1907'
   qc6CJjYAAAAJ:uCYQzKCmtZwC:
-    citations: 1230
+    citations: 1228
     title: Out of my later years
     year: '1950'
   qc6CJjYAAAAJ:uH1VZYVfkoQC:
@@ -3986,7 +3986,7 @@ papers:
     title: Considerations on electrodynamics, the ether, geometry and relativity
     year: '1972'
   qc6CJjYAAAAJ:w2UhwfzvF0QC:
-    citations: 430
+    citations: 429
     title: On a generalization of Kaluza's theory of electricity
     year: '1938'
   qc6CJjYAAAAJ:w7CBUyPWg-0C:
@@ -4018,7 +4018,7 @@ papers:
     title: "La teoria della relativit\xE0"
     year: '1987'
   qc6CJjYAAAAJ:wgKq3sYidysC:
-    citations: 509
+    citations: 510
     title: Concerning an heuristic point of view toward the emission and transformation of light
     year: '1965'
   qc6CJjYAAAAJ:wkm4DBaukwsC:
@@ -4078,11 +4078,11 @@ papers:
     title: 'Albert Einstein] to Gustav Mie: Letter, 29 Dec 1917'
     year: Unknown Year
   qc6CJjYAAAAJ:yIeBiWEAh44C:
-    citations: 1290
+    citations: 1292
     title: "\xDCber den Einflu\xDF der Schwerkraft auf die Ausbreitung des Lichtes"
     year: '2006'
   qc6CJjYAAAAJ:yJjnfzR0HrkC:
-    citations: 857
+    citations: 856
     title: Strahlungs-emission und absorption nach der quantentheorie
     year: '1916'
   qc6CJjYAAAAJ:yKZlB_2wKysC:
@@ -4094,7 +4094,7 @@ papers:
     title: A generalized theory of gravitation
     year: '1948'
   qc6CJjYAAAAJ:yNohvu9kXXYC:
-    citations: 384
+    citations: 382
     title: Quantentheorie des idealen einatomigen Gases, Sitzber
     year: '1924'
   qc6CJjYAAAAJ:yS0fcbgecPsC:
