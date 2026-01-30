@@ -90,11 +90,8 @@ cv:
         date: 2024
 
     Service:
-      - title: Reviewer
-        summary: AAAI, CVPR, ICCV, ICML, NeurIPS, IJCV
-
-      - title: Co-organizer
-        summary: ML4Wireless workshop at ICML 2025
+      - bullet: "Reviewer: AAAI, CVPR, ICCV, ICML, NeurIPS, IJCV"
+      - bullet: "Co-organizer: ML4Wireless workshop at ICML 2025"
 
     Skills:
       - name: Programming
