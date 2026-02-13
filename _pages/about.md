@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer @ TikTok
+subtitle: Applied Scientist @ Adobe Firefly
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>San Jose, CA</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -23,9 +23,9 @@ latest_posts:
   enabled: false
 ---
 
-I’m **Xinyu Gong**, a Machine Learning Engineer at **TikTok**. My research interests focus on **generative models** for **image/video synthesis**.
+I am an Applied Scientist at **Adobe Firefly**, working on generative AI for image and video generation. My research focuses on diffusion models, multimodal learning, and building scalable systems for controllable, high-quality visual content creation.
 
-Before TikTok, I did my Ph.D. studies in **Electrical & Computer Engineering at UT Austin** (advised by Dr. Atlas Wang). I received my B.E. in Computer Science from the University of Electronic Science and Technology of China.
+I received my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin and my B.Eng. from the University of Electronic Science and Technology of China.
 
 
 <!-- publications/CV sentence removed -->

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined TikTok as a Machine Learning Engineer on Oct 16, 2023.
+I joined TikTok as a Machine Learning Engineer.

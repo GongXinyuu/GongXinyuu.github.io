@@ -9,7 +9,7 @@ last_name: Gong
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Machine Learning Engineer at TikTok. Interests: few-shot learning, neural architecture search, and generative models for image/video synthesis.
+  Applied Scientist at Adobe Firefly (since 02/09/2026). Interests: few-shot learning, neural architecture search, and generative models for image/video synthesis.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -281,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gong]
+  first_name: [Xinyu]
 
   style: apa
   locale: en
@@ -369,7 +369,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # disabled for local preview to avoid heavy image generation / OOM in docker
   widths:
     - 480
     - 800

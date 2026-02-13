@@ -1,8 +1,8 @@
 ---
 layout: post
-title: (hidden)
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2026-02-09 09:00:00-0800
+inline: true
 related_posts: false
-published: false
 ---
+
+I joined Adobe Firefly as an Applied Scientist.

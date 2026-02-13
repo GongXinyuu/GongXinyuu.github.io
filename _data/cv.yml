@@ -1,10 +1,10 @@
 cv:
   name: Xinyu Gong
-  label: Machine Learning Engineer
+  label: Applied Scientist
   email: neoxygong@gmail.com
   location: San Jose, CA
   image: ""
-  summary: Machine Learning Engineer working on generative models for image/video.
+  summary: Applied Scientist working on generative models for image/video.
 
   social_networks:
     - network: GitHub
@@ -40,11 +40,18 @@ cv:
         end_date: 2018
 
     Experience:
+      - company: Adobe Firefly
+        position: Applied Scientist
+        location: San Jose, CA
+        start_date: 2026-02-09
+        end_date: present
+        highlights: []
+
       - company: TikTok
         position: Machine Learning Engineer
         location: San Jose, CA
         start_date: 2023-10
-        end_date: present
+        end_date: 2026-02
         highlights:
           - Improved text-to-image models using supervised fine-tuning (SFT) and curated training datasets, enhancing prompt adherence and visual quality.
           - Performed post-training on image-to-video models with SFT and RLHF, improving temporal consistency and motion realism.
