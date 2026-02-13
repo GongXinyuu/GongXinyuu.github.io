@@ -391,8 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-tiktok-as-a-machine-learning-engineer-on-oct-16-2023",
-          title: 'I joined TikTok as a Machine Learning Engineer on Oct 16, 2023.',
+            },},{id: "news-i-joined-tiktok-as-a-machine-learning-engineer",
+          title: 'I joined TikTok as a Machine Learning Engineer.',
+          description: "",
+          section: "News",},{id: "news-i-joined-adobe-firefly-as-an-applied-scientist",
+          title: 'I joined Adobe Firefly as an Applied Scientist.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
