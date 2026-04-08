@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-08'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
     citations: 108
     title: Unified Implicit Neural Stylization
     year: '2022'
   A8e8UNAAAAAJ:2osOgNQ5qMEC:
-    citations: 418
+    citations: 419
     title: 'AutoGAN: Neural Architecture Search for Generative Adversarial Networks'
     year: '2019'
   A8e8UNAAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 2893
+    citations: 2904
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -54,7 +54,7 @@ papers:
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 437
+    citations: 439
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
