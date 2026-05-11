@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-11'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
     citations: 110
@@ -14,11 +14,11 @@ papers:
     title: 'WS-iFSD: Weakly Supervised Incremental Few-shot Object Detection Without Forgetting'
     year: '2023'
   A8e8UNAAAAAJ:8k81kl-MbHgC:
-    citations: 90
+    citations: 91
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 2996
+    citations: 3007
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: 'MV-S2V: Multi-View Subject-Consistent Video Generation'
     year: '2026'
   A8e8UNAAAAAJ:UeHWp8X0CEIC:
-    citations: 279
+    citations: 280
     title: 'FasterSeg: Searching for Faster Real-time Semantic Segmentation'
     year: '2019'
   A8e8UNAAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 443
+    citations: 444
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
@@ -82,7 +82,7 @@ papers:
     title: Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics
     year: '2021'
   A8e8UNAAAAAJ:kNdYIx-mwKoC:
-    citations: 16
+    citations: 17
     title: 'Grounded-instruct-pix2pix: Improving instruction based image editing with automatic target grounding'
     year: '2024'
   A8e8UNAAAAAJ:roLk4NBRz8UC:
