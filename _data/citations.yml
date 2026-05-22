@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
     citations: 111
@@ -18,11 +18,11 @@ papers:
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 3021
+    citations: 3032
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
-    citations: 80
+    citations: 81
     title: 'AutoSpeech: Neural Architecture Search for Speaker Recognition'
     year: '2020'
   A8e8UNAAAAAJ:KlAtU1dfN6UC:
@@ -46,7 +46,7 @@ papers:
     title: 'MV-S2V: Multi-View Subject-Consistent Video Generation'
     year: '2026'
   A8e8UNAAAAAJ:UeHWp8X0CEIC:
-    citations: 280
+    citations: 279
     title: 'FasterSeg: Searching for Faster Real-time Semantic Segmentation'
     year: '2019'
   A8e8UNAAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 448
+    citations: 450
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
