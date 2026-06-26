@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-26'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
     citations: 112
     title: Unified Implicit Neural Stylization
     year: '2022'
   A8e8UNAAAAAJ:2osOgNQ5qMEC:
-    citations: 423
+    citations: 424
     title: 'AutoGAN: Neural Architecture Search for Generative Adversarial Networks'
     year: '2019'
   A8e8UNAAAAAJ:3fE2CSJIrl8C:
@@ -14,11 +14,11 @@ papers:
     title: 'WS-iFSD: Weakly Supervised Incremental Few-shot Object Detection Without Forgetting'
     year: '2023'
   A8e8UNAAAAAJ:8k81kl-MbHgC:
-    citations: 91
+    citations: 92
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 3079
+    citations: 3137
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -30,11 +30,11 @@ papers:
     title: 'ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning'
     year: '2025'
   A8e8UNAAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: 'Auto-X3D: Ultra-efficient video understanding via finer-grained neural architecture search'
     year: '2022'
   A8e8UNAAAAAJ:MXK_kJrjxJIC:
-    citations: 57
+    citations: 56
     title: 'MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition'
     year: '2023'
   A8e8UNAAAAAJ:Tyk-4Ss8FVUC:
@@ -42,19 +42,19 @@ papers:
     title: 'Autopose: Searching multi-scale branch aggregation for pose estimation'
     year: '2020'
   A8e8UNAAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 2
     title: 'MV-S2V: Multi-View Subject-Consistent Video Generation'
     year: '2026'
   A8e8UNAAAAAJ:UeHWp8X0CEIC:
-    citations: 282
+    citations: 283
     title: 'FasterSeg: Searching for Faster Real-time Semantic Segmentation'
     year: '2019'
   A8e8UNAAAAAJ:UebtZRa9Y70C:
-    citations: 12
+    citations: 13
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 458
+    citations: 464
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
@@ -90,7 +90,7 @@ papers:
     title: 'Sandwich batch normalization: A drop-in replacement for feature distribution heterogeneity'
     year: '2022'
   A8e8UNAAAAAJ:u-x6o8ySG0sC:
-    citations: 52
+    citations: 53
     title: Multitarget AOA estimation using wideband LFMCW signal and two receiver antennas
     year: '2018'
   A8e8UNAAAAAJ:u5HHmVD_uO8C:
