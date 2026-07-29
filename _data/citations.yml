@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-29'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
-    citations: 112
+    citations: 111
     title: Unified Implicit Neural Stylization
     year: '2022'
   A8e8UNAAAAAJ:2osOgNQ5qMEC:
-    citations: 429
+    citations: 428
     title: 'AutoGAN: Neural Architecture Search for Generative Adversarial Networks'
     year: '2019'
   A8e8UNAAAAAJ:3fE2CSJIrl8C:
@@ -14,11 +14,11 @@ papers:
     title: 'WS-iFSD: Weakly Supervised Incremental Few-shot Object Detection Without Forgetting'
     year: '2023'
   A8e8UNAAAAAJ:8k81kl-MbHgC:
-    citations: 92
+    citations: 93
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 3191
+    citations: 3220
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -30,11 +30,11 @@ papers:
     title: 'ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning'
     year: '2025'
   A8e8UNAAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 5
     title: 'Auto-X3D: Ultra-efficient video understanding via finer-grained neural architecture search'
     year: '2022'
   A8e8UNAAAAAJ:MXK_kJrjxJIC:
-    citations: 57
+    citations: 59
     title: 'MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition'
     year: '2023'
   A8e8UNAAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +54,7 @@ papers:
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 467
+    citations: 470
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
@@ -71,18 +71,22 @@ papers:
     year: '2019'
   A8e8UNAAAAAJ:Zph67rFs4hoC:
     citations: 3
-    title: 'Cetcam: Camera-controllable video generation via consistent and extensible tokenization'
-    year: '2026'
+    title: 'CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization'
+    year: '2025'
   A8e8UNAAAAAJ:_FxGoFyzp5QC:
     citations: 28
     title: 'SAFIN: arbitrary style transfer with self-attentive factorized instance normalization'
     year: '2021'
+  A8e8UNAAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: 'OpenLongTail: Generative Scaling of Long-Tail Driving Data'
+    year: '2026'
   A8e8UNAAAAAJ:d1gkVwhDpl0C:
-    citations: 61
+    citations: 62
     title: Conditional adversarial generative flow for controllable image synthesis
     year: '2019'
   A8e8UNAAAAAJ:eQOLeE2rZwMC:
-    citations: 38
+    citations: 39
     title: Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics
     year: '2021'
   A8e8UNAAAAAJ:kNdYIx-mwKoC:
