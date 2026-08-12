@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-12'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
-    citations: 111
+    citations: 113
     title: Unified Implicit Neural Stylization
     year: '2022'
   A8e8UNAAAAAJ:2osOgNQ5qMEC:
-    citations: 428
+    citations: 424
     title: 'AutoGAN: Neural Architecture Search for Generative Adversarial Networks'
     year: '2019'
   A8e8UNAAAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 2
     title: 'WS-iFSD: Weakly Supervised Incremental Few-shot Object Detection Without Forgetting'
     year: '2023'
   A8e8UNAAAAAJ:8k81kl-MbHgC:
@@ -18,7 +18,7 @@ papers:
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 3220
+    citations: 3265
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: 'Auto-X3D: Ultra-efficient video understanding via finer-grained neural architecture search'
     year: '2022'
   A8e8UNAAAAAJ:MXK_kJrjxJIC:
-    citations: 59
+    citations: 60
     title: 'MMG-Ego4D: Multi-Modal Generalization in Egocentric Action Recognition'
     year: '2023'
   A8e8UNAAAAAJ:Tyk-4Ss8FVUC:
@@ -42,31 +42,27 @@ papers:
     title: 'Autopose: Searching multi-scale branch aggregation for pose estimation'
     year: '2020'
   A8e8UNAAAAAJ:ULOm3_A8WrAC:
-    citations: 2
+    citations: 3
     title: 'MV-S2V: Multi-View Subject-Consistent Video Generation'
     year: '2026'
   A8e8UNAAAAAJ:UeHWp8X0CEIC:
-    citations: 284
+    citations: 285
     title: 'FasterSeg: Searching for Faster Real-time Semantic Segmentation'
     year: '2019'
   A8e8UNAAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 12
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 470
+    citations: 450
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
     citations: 11
     title: Searching for Two-Stream Models in Multivariate Space for Video Recognition
     year: '2021'
-  A8e8UNAAAAAJ:YOwf2qJgpHMC:
-    citations: 0
-    title: 'ByteLOOM: Weaving Geometry-Consistent Human-Object Interactions Videos through Progressive Curriculum Learning'
-    year: '2025'
   A8e8UNAAAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 10
     title: 'EnlightenGAN: Deep light enhancement without paired supervision. arXiv 2019'
     year: '2019'
   A8e8UNAAAAAJ:Zph67rFs4hoC:
@@ -74,11 +70,11 @@ papers:
     title: 'CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization'
     year: '2025'
   A8e8UNAAAAAJ:_FxGoFyzp5QC:
-    citations: 28
+    citations: 29
     title: 'SAFIN: arbitrary style transfer with self-attentive factorized instance normalization'
     year: '2021'
   A8e8UNAAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: 'OpenLongTail: Generative Scaling of Long-Tail Driving Data'
     year: '2026'
   A8e8UNAAAAAJ:d1gkVwhDpl0C:
@@ -94,11 +90,11 @@ papers:
     title: 'Grounded-instruct-pix2pix: Improving instruction based image editing with automatic target grounding'
     year: '2024'
   A8e8UNAAAAAJ:roLk4NBRz8UC:
-    citations: 14
+    citations: 15
     title: 'Sandwich batch normalization: A drop-in replacement for feature distribution heterogeneity'
     year: '2022'
   A8e8UNAAAAAJ:u-x6o8ySG0sC:
-    citations: 54
+    citations: 53
     title: Multitarget AOA estimation using wideband LFMCW signal and two receiver antennas
     year: '2018'
   A8e8UNAAAAAJ:u5HHmVD_uO8C:
