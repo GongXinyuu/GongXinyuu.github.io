@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-14'
 papers:
   A8e8UNAAAAAJ:0EnyYjriUFMC:
     citations: 113
@@ -18,7 +18,7 @@ papers:
     title: 'NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes'
     year: '2022'
   A8e8UNAAAAAJ:9yKSN-GCB0IC:
-    citations: 3265
+    citations: 3269
     title: 'Enlightengan: Deep light enhancement without paired supervision'
     year: '2019'
   A8e8UNAAAAAJ:IjCSPb-OGe4C:
@@ -54,7 +54,7 @@ papers:
     title: 'Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis'
     year: '2022'
   A8e8UNAAAAAJ:W7OEmFMy1HYC:
-    citations: 450
+    citations: 451
     title: 'Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective'
     year: '2021'
   A8e8UNAAAAAJ:WF5omc3nYNoC:
