@@ -45,7 +45,10 @@ cv:
         location: San Jose, CA
         start_date: 2026-02-09
         end_date: present
-        highlights: []
+        highlights:
+          - Developed image and video generation and editing models for Adobe Firefly.
+          - Built scalable data curation pipelines to produce high-quality training data for generative models.
+          - Performed post-training of image and video generative models to improve output quality and instruction following.
 
       - company: TikTok
         position: Machine Learning Engineer
